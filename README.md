@@ -100,7 +100,7 @@ python3 bot.py
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
 • /broadcast - to broadcast a message to all Eva Maria users
-```
+```/add   -  to add a filter to a chat
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
